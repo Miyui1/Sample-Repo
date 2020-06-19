@@ -68,8 +68,7 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = CameraProperties)
 	bool bCameraPropertiesChange;
 
-	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = CameraProperties)
-	uint8 bUseAccelerationForPaths : 1;
+	
 
 protected:
 

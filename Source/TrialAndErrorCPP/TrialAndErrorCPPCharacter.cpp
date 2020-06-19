@@ -63,7 +63,7 @@ ATrialAndErrorCPPCharacter::ATrialAndErrorCPPCharacter()
 	CameraStatus = ECameraStatus::ECS_Idle;
 	CameraYaw = 0.f;
 
-	bCameraPropertiesChange = false;
+	bCameraPropertiesChange = true;
 
 }
 
